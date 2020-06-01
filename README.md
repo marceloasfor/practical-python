@@ -1,3 +1,7 @@
+## Link that brought me here:
+
+https://dabeaz-course.github.io/practical-python/
+
 # Welcome!
 
 When I first learned Python nearly 25 years ago, I was immediately
